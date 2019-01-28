@@ -1,0 +1,12 @@
+import React from 'react';
+__CSS_IMPORT__
+
+const __COMPONENT_NAME__ = props => {
+    return (
+        <div>
+
+        </div>
+    );
+};
+
+export default __COMPONENT_NAME__;

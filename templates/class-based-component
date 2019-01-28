@@ -1,0 +1,17 @@
+import React, {Component} from 'react';
+__CSS_IMPORT__
+
+class __COMPONENT_NAME__ extends Component {
+
+    render() {
+        return (
+            <div>
+
+            </div>
+        );
+    }
+
+
+}
+
+export default __COMPONENT_NAME__;
