@@ -1,17 +1,15 @@
 {
-  "name": "crcmp",
-  "version": "1.0.4",
+  "name": "createcomponent",
+  "version": "1.0.0",
   "description": "",
-  "main": "./cli.js",
-  "bin": {
-    "crcmp": "./cli.js"
+  "main": "cli.js",
+  "dependencies": {
+    "commander": "^2.20.0"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "commander": "^2.19.0"
-  }
+  "license": "ISC"
 }
